@@ -1,9 +1,6 @@
 import React from 'react';
-// import { Nav.Link } from 'react-router-dom';
-// import { Container,Navbar,Nav } from 'react-bootstrap';
-
 import { Nav, Container,Navbar } from 'react-bootstrap';
-// import { NavLink } from 'react-router-dom';
+
 
 
 const Header = () => {
